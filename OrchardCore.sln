@@ -576,6 +576,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{9FD388
 		.scripts\bloom\assets\bloom.svg = .scripts\bloom\assets\bloom.svg
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mon1erTheme", "src\OrchardCore.Cms.Web\Themes\Mon1erTheme\Mon1erTheme.csproj", "{E5FFB722-B733-F74D-C864-ADE0C0B467BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1456,6 +1458,10 @@ Global
 		{F5E7DCC3-12C2-4363-9702-639561A8101C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5E7DCC3-12C2-4363-9702-639561A8101C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5E7DCC3-12C2-4363-9702-639561A8101C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FFB722-B733-F74D-C864-ADE0C0B467BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FFB722-B733-F74D-C864-ADE0C0B467BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FFB722-B733-F74D-C864-ADE0C0B467BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FFB722-B733-F74D-C864-ADE0C0B467BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

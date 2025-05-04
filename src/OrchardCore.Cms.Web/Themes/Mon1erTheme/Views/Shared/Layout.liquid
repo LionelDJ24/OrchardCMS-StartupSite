@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ Model.TitlePart?.Title ?? "BlueSpark" }}</title>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/media/logos/favicon_bluespark.png?v=jgYGrLUw9cgP35bss0CbuKAJKXDsGYj5MZHnZK4V8Ko" />
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="/OrchardCore.Resources/Styles/bootstrap.css" />
+
+  <!-- Scripts -->
+  <script src="/OrchardCore.Resources/Vendor/fontawesome-free/js/all.min.js"></script>
+</head>
+<body>
+
+  <div style="background: #0066cc; color: white; text-align: center; padding: 10px;">
+    🧪 Layout Mon1erTheme actif !
+  </div>
+
+  <!-- Render Header, Main content and Footer -->
+  {% zone "Header" %}
+  {% render_body %}
+  {% zone "Footer" %}
+
+  <!-- Scripts footer -->
+  <script src="/OrchardCore.Resources/Scripts/bootstrap.js"></script>
+</body>
+</html>
