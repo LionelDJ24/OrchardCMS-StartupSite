@@ -578,6 +578,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{9FD388
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mon1erTheme", "src\OrchardCore.Cms.Web\Themes\Mon1erTheme\Mon1erTheme.csproj", "{E5FFB722-B733-F74D-C864-ADE0C0B467BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testimonials.Module", "src\Testimonials.Module\Testimonials.Module.csproj", "{EFC29A3F-4DF1-4AD8-AB6D-20A10C3C28C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1462,6 +1464,10 @@ Global
 		{E5FFB722-B733-F74D-C864-ADE0C0B467BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5FFB722-B733-F74D-C864-ADE0C0B467BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5FFB722-B733-F74D-C864-ADE0C0B467BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC29A3F-4DF1-4AD8-AB6D-20A10C3C28C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC29A3F-4DF1-4AD8-AB6D-20A10C3C28C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC29A3F-4DF1-4AD8-AB6D-20A10C3C28C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC29A3F-4DF1-4AD8-AB6D-20A10C3C28C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1711,6 +1717,7 @@ Global
 		{E7B921D8-DBF1-4D36-B74C-C5E793E3CE05} = {A847EDA7-A67E-4C12-9BFF-044CB7938BA8}
 		{3BAC3DFA-1B57-466C-BDDF-E5481020CAD7} = {A847EDA7-A67E-4C12-9BFF-044CB7938BA8}
 		{9FD38847-D151-4CBF-8564-4AC4E0B32AB1} = {A847EDA7-A67E-4C12-9BFF-044CB7938BA8}
+		{EFC29A3F-4DF1-4AD8-AB6D-20A10C3C28C0} = {275E087F-A4E2-4A7B-A924-ED68E3A52086}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {46A1D25A-78D1-4476-9CBF-25B75E296341}
